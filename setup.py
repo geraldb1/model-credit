@@ -26,6 +26,6 @@ setup(
     author = "Luis Caachahua",                              # Autor
     author_email = "lcajachahua@gmail.com",                 # Correo del Author
     packages = find_packages(),                             # Automáticamente encuentra librerías en el directorio actual
-    install_requires = get_requirments("requirments.txt")   # Especificar las dependencias en requirements.txt
+    install_requires = get_requirments("requirements.txt")   # Especificar las dependencias en requirements.txt
 
 )
